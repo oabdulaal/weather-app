@@ -5,10 +5,10 @@ Welcome to the Weather Data App assignment! The Weather App is a basic applicati
 
 ## What You'll Be Working With
 
-**Backend:** Python Flask API with PostgreSQL database
-**Deployment:** Docker and Docker Compose
-**Data Processing:** Weather data ingestion and analytics
-**Integration:** REST API endpoints with database operations
+- **Backend:** Python Flask API with PostgreSQL database
+- **Deployment:** Docker and Docker Compose
+- **Data Processing:** Weather data ingestion and analytics
+- **Integration:** REST API endpoints with database operations
 
 
 ## What you'll need
